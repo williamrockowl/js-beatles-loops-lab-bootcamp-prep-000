@@ -18,7 +18,8 @@ function johnLennonFacts(aFacts){
   "He hated the sound of his own voice"
 ];
 
-while(i<)
+while(i<facts.size)
+
 
 
 
